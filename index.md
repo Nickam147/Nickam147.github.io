@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:namikulski@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Python Job Webscraper | CSCI 301](project1)
+### [HTML Job Webscraper | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/Project_1_thumb.png)
 

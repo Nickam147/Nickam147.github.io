@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Python Job Webscraper
+HTML Job Webscraper
 ===============
 
 -   **Class: CSCI-301** 
@@ -11,7 +11,7 @@ Python Job Webscraper
 
 ## Project description
 
-This project is a Python-based web scraper designed to extract job listing content from a public job board website. This project uses the libraries "requests" and "BeautifulSoup" to extract the contents and parse HTML content, then display the relevant job titles and descriptions for the user to view.
+This project is a Python-based web scraper designed to extract job listing content from a public HTML job board website. This project uses the libraries "requests" and "BeautifulSoup" to extract the contents and parse HTML content, then display the relevant job titles and descriptions for the user to view.
 
 ## How to compile and run the program
 
