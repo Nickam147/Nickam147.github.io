@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Project_3_thumb.png)
 
 ---
-### [AirDrop Data Transfer | CSCI 332](project1)
+### [AirDrop Data Transfer | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Project_4_thumb.png)
 
 ---
 
