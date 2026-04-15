@@ -31,36 +31,38 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Impactful and Ethical Uses of AI](/pdf/CSCI301.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301**  
+-   **Grade: 70%**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Responsibility in Automated Software Testing](/pdf/CSCI315.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315** 
+-   **Grade: 88%**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Dilemmas in the Field of Computer Science](/pdf/CSCI325.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325** 
+-   **Grade: 90%**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Cyberbullying and Its Effects in the Virtual World](/pdf/CSCI405.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405** 
+- **Grade: 100%**
+- [Video Presentation](https://youtu.be/LdgkS0SRswI)
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Dangers of the Virtual World](/pdf/CSCI405_2.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405** 
+- **Grade: 100%**
+- [Video Presentation](https://youtu.be/Jib2ZUY2Ejk)
 
 ---
 
