@@ -6,7 +6,7 @@ Large Map with Fast Prefix Matching
 -   **Class: CSCI-315** 
 -   **Grade: 95%** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Nickam147/Portfolio-CSCI301-Project](https://github.com/Nickam147/Portfolio-CSCI315-Project)  
+-   **Source Code Repository:** [Nickam147/Portfolio-CSCI315-Project](https://github.com/Nickam147/Portfolio-CSCI315-Project)  
     (Please [email me](mailto:namikulski@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
