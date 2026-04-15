@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Python Job Webscraper
 ===============
 
 -   **Class: CSCI-301** 
 -   **Grade: 100%** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Nickam147/Portfolio-CSCI301-Project)  
+-   **Source Code Repository:** [Nickam147/Portfolio-CSCI301-Project](https://github.com/Nickam147/Portfolio-CSCI301-Project)  
     (Please [email me](mailto:namikulski@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -31,10 +31,6 @@ Fig 1. The example website used to webscrape and parse HTML from.
 
 ![screenshot](images/Project_1_example.png)  
 Fig 2. Example output after input is processed.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
