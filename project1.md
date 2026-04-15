@@ -15,8 +15,6 @@ This project is a Python-based web scraper designed to extract job listing conte
 
 ## How to compile and run the program
 
-How to run the project.
-
 ```bash
 cd /projectlocation
 ./webscraper

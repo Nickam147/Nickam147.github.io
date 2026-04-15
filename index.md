@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/Project_2_thumb.png)
 
 ---
-### [Wordle Cheater | CSCI 325](project1)
+### [Wordle Cheater | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Project_3_thumb.png)
 
 ---
 ### [AirDrop Data Transfer | CSCI 332](project1)

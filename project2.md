@@ -16,8 +16,6 @@ associates student first and last names from independent text files with unique 
 
 ## How to compile and run the program
 
-How to run the project.
-
 ```bash
 cd /projectlocation
 ./prefixmatch
