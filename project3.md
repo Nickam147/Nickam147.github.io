@@ -3,10 +3,10 @@
 Wordle Cheater
 ===============
 
--   **Class: CSCI-325** 
+-   **Class: CSCI 325** 
 -   **Grade: 92%** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Nickam147/Portfolio-CSCI315-Project](https://github.com/Nickam147/Portfolio-CSCI325-Project)  
+-   **Source Code Repository:** [Nickam147/Portfolio-CSCI325-Project](https://github.com/Nickam147/Portfolio-CSCI325-Project)  
     (Please [email me](mailto:namikulski@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description

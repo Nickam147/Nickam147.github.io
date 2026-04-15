@@ -3,7 +3,7 @@
 HTML Job Webscraper
 ===============
 
--   **Class: CSCI-301** 
+-   **Class: CSCI 301** 
 -   **Grade: 100%** 
 -   **Language(s): Python** 
 -   **Source Code Repository:** [Nickam147/Portfolio-CSCI301-Project](https://github.com/Nickam147/Portfolio-CSCI301-Project)  
