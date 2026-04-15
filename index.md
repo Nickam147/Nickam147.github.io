@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Large Map with Fast Prefix Matching | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Project_2_thumb.png)
 
 ---
 ### [Wordle Cheater | CSCI 325](project1)
