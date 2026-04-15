@@ -6,7 +6,7 @@ Project 1 Title
 -   **Class: CSCI-301** 
 -   **Grade: 100%** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Nickam147/Portfolio-CSCI301-Project)  
     (Please [email me](mailto:namikulski@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -18,7 +18,7 @@ This project is a Python-based web scraper designed to extract job listing conte
 How to run the project.
 
 ```bash
-cd ./project
+cd /projectlocation
 ./webscraper
 ```
 

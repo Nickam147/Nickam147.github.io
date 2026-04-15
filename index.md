@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Python Job Webscraper | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/Project_1_Thumb.png)
+![Project 1 Thumbnail Name](images/Project_1_thumb.png)
 
 ---
 ### [Large Map with Fast Prefix Matching | CSCI 315](project1)
